@@ -1,0 +1,33 @@
+body {
+    background-color: lightgrey;
+}
+
+#banner {
+    border: 10px solid black;
+    width: 80%;
+    margin: 10% auto;
+    padding: 2% 5%;
+    border-radius: 12px;
+    text-align: center;
+    background-color: #fff;
+}
+.left {
+    width: fit-content;
+    float: left;
+}
+.right {
+    margin-left: auto;
+    width: fit-content;
+    margin-right: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+button {
+    background-color:purple;
+    color: white;
+    padding: 1%;
+    border-radius: 5px;
+}
