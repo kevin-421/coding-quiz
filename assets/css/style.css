@@ -15,6 +15,7 @@ body {
     width: fit-content;
     float: left;
 }
+
 .right {
     margin-left: auto;
     width: fit-content;
@@ -25,9 +26,19 @@ body {
     text-align: center;
 }
 
+#answers {
+    text-align: left;
+}
+
 button {
     background-color:purple;
     color: white;
     padding: 1%;
     border-radius: 5px;
 }
+
+#main {
+    width: 80%;
+    margin: 0 auto;
+};
+
